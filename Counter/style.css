@@ -1,0 +1,36 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    margin:0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(150, 192, 192, 0.781);
+}
+
+.container {
+  text-align: center;   
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(103, 172, 103);
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: rgb(155, 18, 52);
+}
+.btn button {
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 20px;
+    background-color: rgb(224, 48, 48);
+    color: rgb(220, 232, 233);
+}
